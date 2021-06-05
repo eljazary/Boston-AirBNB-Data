@@ -24,3 +24,6 @@ used two model to predcit the price based on some numerical and Categorical Vari
 1- linear Regression
 2- Random Forest Regressor
 and plots show thr result from Random Forest Regressor more accurate and able to get high score for both test and train set
+
+
+https://eljazary.medium.com/boston-air-bnb-price-prediction-based-on-2-different-model-e6148006a2fb
