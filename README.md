@@ -16,3 +16,11 @@ what the most major price reange required ?
 what is the factors affect the price ?
 what are the comments of the guest they would to say ?
 what the factors affects the price ?
+
+
+
+Final Outcomes¶
+used two model to predcit the price based on some numerical and Categorical Varibales ; these two model are
+1- linear Regression
+2- Random Forest Regressor
+and plots show thr result from Random Forest Regressor more accurate and able to get high score for both test and train set
