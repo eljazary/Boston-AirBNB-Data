@@ -14,15 +14,15 @@
   * Preparing Data
   * Make Asentiment Analysis for Customer Comments
   * Price Prediction 
-    *** Linear Regression 
-    *** Random Forest Regressor 
-  ** Final Outcomes
-* [Technologies]
- LinearRegession
- RandomForestRegressor
-* [Setup]
- conda install -c conda-forge forestci
- conda install -c conda-forge linearmodels
+    * Linear Regression 
+    * Random Forest Regressor 
+  **  Final Outcomes
+##  [Technologies]
+ * LinearRegession
+ * RandomForestRegressor
+## [Setup]
+ * conda install -c conda-forge forestci
+ * conda install -c conda-forge linearmodels
 
  
 
