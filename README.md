@@ -1,29 +1,29 @@
-# Boston-AirBNB-Data
- Boston AirBNB homes can be used to understand how much AirBNB homes are earning in certain time frames and areas.
+# [AirBNB Price Predction](#general-info)
+  Airbnb is an online marketplace that connects people to rent out their homes with people who are looking for accommodations in that locale & For hosts, 
+ participating in Airbnb is a way to earn some income from their property, but with the risk that the guest might do damage to it.
+ we will try to figure out the price prediction by two different model by applying CRISP-DM Methodology
+  1. Business understanding
+  2. Data understanding
+  3. Data preparation
+  4. Modeling
+  5. Evaluation
+  6. Deployment
+ 
+## Table of contents
+  ** Crisp-DM Process 
+  ** Preparing Data
+  ** Make Asentiment Analysis for Customer Comments
+  ** Price Prediction 
+    *** Linear Regression 
+    *** Random Forest Regressor 
+  ** Final Outcomes
+* [Technologies]
+ LinearRegession
+ RandomForestRegressor
+* [Setup]
+ conda install -c conda-forge forestci
+ conda install -c conda-forge linearmodels
 
-I- Business understanding
-Who can host on Airbnb? Behind every stay is a host, a real person who can give you the details you need to check in and feel at home. They can interact with guests in different ways, depending on the type of place or experience they booked lmost anyone can be a host. It's free to sign up and list both stays and experiences. Whether they’re hosting a place to stay or a local activity, all hosts are expected to meet our quality standards every time (link)
-
-so we try to figure out the below issues
-a. the vairance of price across specific period which data set include after removing some outlier
-b. also trying to make scheme for correlation between parameters
-c. making a trail to analysis the text and comments of customer to know little bit about what customer need to know
-d. predict the price of unit based on two model and evalute our models
+ 
 
 
-I.I question neeed to ansewrs
-what the most major price reange required ?
-what is the factors affect the price ?
-what are the comments of the guest they would to say ?
-what the factors affects the price ?
-
-
-
-Final Outcomes¶
-used two model to predcit the price based on some numerical and Categorical Varibales ; these two model are
-1- linear Regression
-2- Random Forest Regressor
-and plots show thr result from Random Forest Regressor more accurate and able to get high score for both test and train set
-
-
-https://eljazary.medium.com/boston-air-bnb-price-prediction-based-on-2-different-model-e6148006a2fb
