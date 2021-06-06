@@ -10,10 +10,10 @@
   6. Deployment
  
 ## Table of contents
-  ** Crisp-DM Process 
-  ** Preparing Data
-  ** Make Asentiment Analysis for Customer Comments
-  ** Price Prediction 
+  * Crisp-DM Process 
+  * Preparing Data
+  * Make Asentiment Analysis for Customer Comments
+  * Price Prediction 
     *** Linear Regression 
     *** Random Forest Regressor 
   ** Final Outcomes
