@@ -22,7 +22,7 @@
      RandomForestRegressor
 ## [Setup]
     conda install -c conda-forge forestci
-     conda install -c conda-forge linearmodels
+    conda install -c conda-forge linearmodels
 
  
 
