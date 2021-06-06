@@ -8,7 +8,8 @@
   4. Modeling
   5. Evaluation
   6. Deployment
- 
+  * [Meduim Blogpost](https://eljazary.medium.com/boston-air-bnb-price-prediction-based-on-2-different-model-e6148006a2fb)
+  
 ## Table of contents
   * Crisp-DM Process 
   * Preparing Data
